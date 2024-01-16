@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "O`ZBEKISTON",
+      "username": "Rossiyalik bloger Toshkent teleminorasining taqiqlangan eng yuqori qismiga chiqdi  ",
+      "email": "Sincere@april.biz",
+      "text": "Toshkent teleminorasi ma’muriyatiga ko‘ra, holat 2022 yilda kuzatilgan bo‘lib, bloger aslida teleminoraning restoran qismiga ovqatlanish uchun chiqqan. So‘ngra u yerdan tashqaridagi temir konstruksiyalariga osilib, maxsus narvonlar orqali yuqoriga ko‘tarilgan.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "15:12 / 15.01.2024"
+    },
+    {
+      "id": 2,
+      "name": "Jahon",
+      "username": "Amerikada prezidentlikka nomzodlarni tanlash boshlanmoqda. Respublikachilarda Tramp yetakchi",
+
+      "text": "Ayova shtati yana Amerika siyosati diqqat markazida - dushanba kuni bu yerda prezidentlikka nomzodlarni tanlash mavsumi boshlanadi.",
+      "address": {
+        "city": "Amerika"
+      },
+      "data": "20:40 / 14.01.2024"
+    },
+    {
+      "id": 3,
+      "name": "Iqtisodiyot",
+      "username": "Maishiy texnikalar importida ishlab chiqaruvchining rasmiy dileri bo‘lishi talab etiladi",
+      "email": "Shanna@melissa.tv",
+      "text": "2024 yil 1 fevraldan e’tiboran, O‘zbekistonga dazmol, mikroto‘lqinli pech, kim yuvish mashinasi, konditsioner kabi bir qator maishiy texnikalarni olib kirishda ishlab chiqaruvchining vakolatli vakili mavjud bo‘lishi talab qilinadi. Elektrotexnika ishlab chiqaruvchi mahalliy kompaniyalarga esa navbatdagi imtiyozli kreditlar, soliq imtiyozlari va preferensiyalar beriladi.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "15:02 / 13.01.2024"
+    },
+    {
+      "id": 4,
+      "name": "Jamiyat",
+      "username": "Penza oblastida YTH oqibatida kamida 7 o‘zbekistonlik halok bo‘ldi",
+
+      "text": "Rossiyaning Penza oblastida fura va miniven o‘rtasida to‘qnashuv sodir bo‘lish oqibatida sakkiz kishi halok bo‘lgan. Dastlabki ma’lumotlarga ko‘ra, minivenda O‘zbekiston fuqarolari harakatlangan.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "12:31 / 11.01.2024"
+    },
+    {
+      "id": 5,
+      "name": "Fan-Texnika",
+      "username": "Sun’iy intellekt qanchalik xavfli yoki foydali?",
+
+      "text": "Bugungi kunda eng “trenddagi” mavzu sun’iy intellektdir. 21-asr texnologiyalar asri va texnologiyalar bu — kelajak degani. Xo‘sh, bu borada O‘zbekiston nimalar qilmoqda? Sun’iy intellekt orqali o‘zbek tarixini va san’atini “tiriltirayotgan” Hikmatulla Ubaydullayev Kun.uz mehmoni bo‘ldi.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "11:57 / 09.01.2024"
+    },
+    {
+      "id": 6,
+      "name": "Sport",
+      "username": "The Best-2023. Messi  yilning eng yaxshi futbolchisi, Gvardiola - eng yaxshi murabbiy",
+
+      "text": "FIFA 15 yanvar kuni Londonda bir qator nominatsiyalar bo‘yicha 2023 yilning eng yaxshilarini taqdirladi. Kutilmaganda Argentina milliy jamoasi va «Inter Mayami» klubi hujumchisi Lionel Messi yilning eng yaxshi o‘yinchisi deb topildi. 35 yoshli futbolchi sovrin uchun kurashda Erling Holand («Manchester Siti» / Norvegiya) va Kilian Mbappeni  («PSJ» / Fransiya) ortda qoldirdi.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": " 02:08 / 09.01.2024"
+    },
+    {
+      "id": 7,
+      "name": "O`ZBEKISTON",
+      "username": "Toshkent havosini yaxshilash bo‘yicha takliflar berildi  ",
+      "text": "Ekologiya vazirligi Toshkent havosi ifloslanishiga ta’sir etayotgan omillarni ma’lum qildi. Tahlillarga ko‘ra, poytaxt havosi ifloslanishiga yashillikning kamaygani, betartib qurilishlar, transport oqimi yuqoriligi, ko‘mir va mazutdan chiqayotgan zaharli tashlanmalar sabab bo‘lmoqda. Shuningdek, atmosfera havosiga ko‘rsatilayotgan salbiy oqibatlarni kamaytirish bo‘yicha takliflar ilgari surilgan.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "14:10 / 12.01.2024 "
+    },
+    {
+      "id": 8,
+      "name": "Fan-texnika",
+      "username": "Raqamni saqlagan holda mobil operatorni o‘zgartirish: u qanday ishlaydi?  ",
+      "text": "O‘zbekistonda yaqin haftalarda telefon raqamni saqlagan holda uyali aloqa operatorini o‘zgartirish imkoniyati yaratilishi kutilmoqda. Xo‘sh, bu imkoniyatdan qanday foydalaniladi, kompaniyani o‘zgartirish qancha vaqt oladi va qanday hollarda ariza rad qilinadi?",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "18:38 / 18.10.2023 "
+    },
+    {
+      "id": 9,
+      "name": "Sport",
+      "username": "«Siti»da jiddiy yo‘qotish va qiyin g‘alaba, Sanchoda yorqin qaytish. Yevropada kun o‘yinlari ",
+      "text": "«Chelsi» 3,5 yildan buyon kuzatilmagan natijani qayd etdi. Shanba oqshomida Yevropa futbolida ro‘y bergan asosiy voqealar, o‘yinlardagi gollar va turnir jadvallaridagi vaziyat.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "11:32 / 14.01.2024 "
+    },
+    {
+      "id": 10,
+      "name": "Toshkent",
+      "username": "Iflos havo bo‘yicha takliflar, imtiyozlar guldastasi va qisqaradigan byurokratiya - hafta dayjesti ",
+      "text": "Toshkent shahrida daraxt kesishga moratoriy e’lon qilinganidan buyon 49 mingga yaqin daraxtlar noqonuniy kesib yuborilgan. Bu dahshatli raqamni juma kuni Ekologiya vazirligi ma’lum qildi. Shu rasmiy raqamga asoslanib, agar 1 dona daraxt taxminiy hisobda o‘rtacha 4 kvadrat metr joyni yashil saqlab turadi deb hisoblasak, u holda oxirgi 4 yil ichida O‘zbekiston poytaxti kamida 20 gektar yam-yashil hududini yo‘qotgani ma’lum bo‘ladi. Bu degani, 2019 yil 1 noyabridan to hozirgacha shahar markazidagi Mustaqillik maydoni yoki Milliy bog‘ hududiga teng hajmdagi yashil hudud yo‘q bo‘lib ketgan.",
+      "address": {
+        "city": "Toshkent"
+      },
+      "data": "09:00 / 14.01.2024"
+    },
+    }
+  ]
+}

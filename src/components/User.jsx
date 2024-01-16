@@ -1,14 +1,17 @@
 import React from "react";
+import "./Users.css";
 
 const User = ({ user }) => {
   return (
-    <div className="p-3 raunded-med shadow-md w-[250px]">
+    <div className="p-3 hero  raunded-med shadow-md w-[250px]">
       {/* <h3>{user.id}</h3> */}
-      <h3>{user.name}</h3>
-      <h5>{user.username}</h5>
+      <h2 className="mb-3">{user.name}</h2>
+      <h5 className="mb-2">{user.username}</h5>
       <p>{user.text}</p>
       <p>{user.address.city}</p>
-      <p>{user.data}</p>
+      <div className="data">
+        <p>{user.data}</p>
+      </div>
     </div>
   );
 };

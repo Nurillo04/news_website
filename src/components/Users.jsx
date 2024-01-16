@@ -21,8 +21,19 @@ const Users = () => {
   }, []);
 
   return (
-    <div>
-      <h1 className="text-5xl py-2 ">Kun.uz </h1>
+    <div className="">
+      <h1 className="text-5xl py-2 title ">Kun.uz </h1>
+      <nav className="nav container">
+        <ul className="flex d-flex  justify-center item justify-items-center">
+          <li>O`zbekiston</li>
+          <li>Jahon</li>
+          <li>Iqtisodiyot</li>
+          <li>Jamiyat</li>
+          <li>Fan-texnika</li>
+          <li>Sport</li>
+        </ul>
+      </nav>
+
       <div className=" flex flex-wrap gap-10 justify-items-center text-align-center  ">
         {users.map((user) => (
           <User key={user.id} user={user} />
